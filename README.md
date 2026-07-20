@@ -1,12 +1,12 @@
 # // PWNING MEMORIES
-
+'''
      ___      .______    __    __   __  
     /   \     |   _  \  |  |  |  | |  | 
    /  ^  \    |  |_)  | |  |__|  | |  | 
   /  /_\  \   |   _  <  |   __   | |  | 
  /  _____  \  |  |_)  | |  |  |  | |  | 
 /__/     \__\ |______/  |__|  |__| |__| 
-                                        
+                                        '''
 // RED TEAM OPERATIONS 
 
 ABHINAV - Cybersecurity • Red Team • Linux
