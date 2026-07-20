@@ -1,16 +1,23 @@
-## Hi there 👋
+# // PWNING MEMORIES
 
-<!--
-**abhinavvermainfosec/abhinavvermainfosec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+     ___      .______    __    __   __  
+    /   \     |   _  \  |  |  |  | |  | 
+   /  ^  \    |  |_)  | |  |__|  | |  | 
+  /  /_\  \   |   _  <  |   __   | |  | 
+ /  _____  \  |  |_)  | |  |  |  | |  | 
+/__/     \__\ |______/  |__|  |__| |__| 
+                                        
+// RED TEAM OPERATIONS 
 
-Here are some ideas to get you started:
+ABHINAV - Cybersecurity • Red Team • Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building offensive security tools.
+Linux enthusiast.
+Arch Linux daily driver.
+---
+
+education : BSc Cybersecurity
+focus     : Red Team • Malware • Linux • AI
+lang      : C • Python • Bash • JS
+status    : hacking
+
