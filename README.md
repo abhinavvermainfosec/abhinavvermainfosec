@@ -6,7 +6,7 @@
   /  /_\  \   |   _  <  |   __   | |  | 
  /  _____  \  |  |_)  | |  |  |  | |  | 
 /__/     \__\ |______/  |__|  |__| |__| 
-                                        ```
+                                        
                                         
 // RED TEAM OPERATIONS 
 
@@ -22,3 +22,4 @@ focus     : Red Team • Malware • Linux • AI
 lang      : C • Python • Bash • JS
 status    : hacking
 
+```
